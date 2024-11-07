@@ -1,5 +1,3 @@
-# main.py
-
 from data_generator import generate_data
 from report_generator import generate_report, print_report
 from visualizations import create_failed_login_heatmap, create_anomalies_bar_plot
