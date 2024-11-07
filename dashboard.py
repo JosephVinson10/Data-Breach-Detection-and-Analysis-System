@@ -1,5 +1,3 @@
-# dashboard.py
-
 import streamlit as st
 from data_generator import generate_data
 from report_generator import generate_report
