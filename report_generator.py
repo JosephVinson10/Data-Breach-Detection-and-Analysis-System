@@ -1,5 +1,3 @@
-# report_generator.py
-
 from model import detect_anomalies, preprocess_data, train_model
 import pandas as pd
 
